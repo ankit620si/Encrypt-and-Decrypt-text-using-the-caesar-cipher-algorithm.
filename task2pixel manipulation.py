@@ -1,3 +1,5 @@
+#You need to install Pillow, a Python Imaging Library:
+pip install pillow
 from PIL import Image
 import os
 
